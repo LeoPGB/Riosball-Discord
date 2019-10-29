@@ -1,0 +1,4 @@
+replit
+discord.py
+flask
+python-dotenv==0.10.3
